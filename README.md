@@ -13,7 +13,7 @@ I'm Douglas Boyd, a student at Brigham Young University-Idaho interested in Cybe
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] https://www.linkedin.com/in/douglas-boyd-73438188/ profile
+- Here is my [LinkedIn][ https://www.linkedin.com/in/douglas-boyd-73438188/](linkedin) profile
 
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
